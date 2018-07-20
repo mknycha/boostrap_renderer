@@ -1,4 +1,4 @@
-# boostrap_renderer
+# bootstrap_renderer
 Custom renderer for WillPaginate gem (https://github.com/mislav/will_paginate)
 The goal was to make pagination look as per: https://getbootstrap.com/docs/4.1/components/pagination/
 
